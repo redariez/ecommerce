@@ -1,1 +1,43 @@
-body
+body{
+  background-image: url("https://cdn.pixabay.com/photo/2016/10/20/18/35/sunrise-1756274_1280.jpg");
+}
+h1{
+  color:red;
+  text-align: center;
+}
+
+h4{
+  color:black;
+}
+
+div.mammal {
+    background-image: url("https://cdn.pixabay.com/photo/2018/05/18/10/34/trees-3410846__340.jpg");
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+div.fish {
+    background-image: url("https://cdn.pixabay.com/photo/2018/05/17/13/53/water-3408603__340.jpg");
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+div.insecta {
+    background-image: url("https://cdn.pixabay.com/photo/2018/05/08/10/17/dandelion-3382663__340.jpg");
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+div.reptilia {
+    background-image: url("http://www.nhptv.org/wild/images/cypressswampusfw.jpg");
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
