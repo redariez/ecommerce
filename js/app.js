@@ -34,7 +34,7 @@ for(var i = 0; i < animalArray.length; i++) {
 //Create text for new Elements
 var aSpecies = document.createTextNode("SPECIES: " + animalArray[i].species)
 var aDiet = document.createTextNode("Eating lifestyle is a " + animalArray[i].diet)
-var ahabitat = document.createTextNode("lives in " + animalArray[i].habitat)
+var aHabitat = document.createTextNode("lives in " + animalArray[i].habitat)
 
 
 
